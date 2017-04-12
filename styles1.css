@@ -81,7 +81,6 @@ body {
 .infoPortfolio a {
   text-decoration: none;
   color: white;
-  text-decoration-style: dotted;
 }
 
 .infoContact {
@@ -89,6 +88,11 @@ body {
   margin-top: 150px;
   padding-left: 50px;
   font-size: 15px;
+}
+
+.infoContact a {
+  text-decoration: none;
+  color: white;
 }
 
 .dplogo {
